@@ -1,0 +1,5 @@
+# Exact pins — this file is the version contract for the backend.
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+SQLAlchemy==2.0.36
